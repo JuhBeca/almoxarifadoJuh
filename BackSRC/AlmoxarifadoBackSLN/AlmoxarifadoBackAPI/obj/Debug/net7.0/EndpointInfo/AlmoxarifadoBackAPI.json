@@ -301,6 +301,80 @@
         }
       }
     },
+    "/listaitenssaida": {
+      "get": {
+        "tags": [
+          "ItensSaida"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/ItensSaida": {
+      "post": {
+        "tags": [
+          "ItensSaida"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItensSaidaDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItensSaidaDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItensSaidaDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/addItensSaida": {
+      "post": {
+        "tags": [
+          "ItensSaida"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItensSaidaCadastroDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItensSaidaCadastroDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItensSaidaCadastroDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/listaprodutos": {
       "get": {
         "tags": [
@@ -669,8 +743,8 @@
             "format": "int32"
           },
           "quantidade": {
-            "type": "string",
-            "nullable": true
+            "type": "integer",
+            "format": "int32"
           },
           "preco": {
             "type": "number",
@@ -687,6 +761,42 @@
         "type": "object",
         "properties": {
           "idItensEnt": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ItensSaidaCadastroDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idSaida": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "quantidade": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "preco": {
+            "type": "number",
+            "format": "float"
+          },
+          "total": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ItensSaidaDTO": {
+        "type": "object",
+        "properties": {
+          "idItensSaida": {
             "type": "integer",
             "format": "int32"
           }

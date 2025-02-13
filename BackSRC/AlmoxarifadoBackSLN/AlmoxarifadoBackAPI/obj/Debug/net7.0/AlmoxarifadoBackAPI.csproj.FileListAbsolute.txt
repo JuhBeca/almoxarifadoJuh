@@ -132,7 +132,6 @@ C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBac
 C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AlmoxarifadoBackAPI.props
 C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\scopedcss\bundle\AlmoxarifadoBackAPI.styles.css
-C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.csproj.CopyComplete
 C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.dll
 C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\refint\AlmoxarifadoBackAPI.dll
 C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\AlmoxarifadoBackAPI.pdb
@@ -222,3 +221,8 @@ C:\Users\tarde.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBac
 C:\Users\tarde.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets\msbuild.AlmoxarifadoBackAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\tarde.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
 C:\Users\tarde.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\Almoxari.BC50AC8F.Up2Date
+C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\bin\Debug\net7.0\AlmoxarifadoBackAPI.staticwebassets.endpoints.json
+C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets\msbuild.AlmoxarifadoBackAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\manha.cetafest\Documents\GitHub\almoxarifadoJuh\BackSRC\AlmoxarifadoBackSLN\AlmoxarifadoBackAPI\obj\Debug\net7.0\Almoxari.BC50AC8F.Up2Date

@@ -48,6 +48,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AlmoxarifadoBackAPI.Controllers.ItensSaidaController",
+    "Method": "addItensSaida",
+    "RelativePath": "addItensSaida",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itensSaida",
+        "Type": "AlmoxarifadoBackAPI.DTO.ItensSaidaCadastroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.ProdutosController",
     "Method": "criarProduto",
     "RelativePath": "addprodutos",
@@ -176,6 +192,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AlmoxarifadoBackAPI.Controllers.ItensSaidaController",
+    "Method": "listaItensSaida",
+    "RelativePath": "ItensSaida",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itenssaida",
+        "Type": "AlmoxarifadoBackAPI.DTO.ItensSaidaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.CategoriaController",
     "Method": "listaCategorias",
     "RelativePath": "listacategoria",
@@ -209,6 +241,16 @@
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.ItensEntradaController",
     "Method": "listaItensEntrada",
     "RelativePath": "listaitensentrada",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlmoxarifadoBackAPI.Controllers.ItensSaidaController",
+    "Method": "listaItensSaida",
+    "RelativePath": "listaitenssaida",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
