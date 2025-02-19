@@ -14,6 +14,10 @@ namespace AlmoxarifadoBackAPI.Controllers
         public CategoriaController(ICategoriaRepositorio db)
         {
             _db = db;
+<<<<<<< HEAD
+=======
+
+>>>>>>> LayoutPadrão
         }
       
         
@@ -42,24 +46,6 @@ namespace AlmoxarifadoBackAPI.Controllers
             _db.Add(novaCategoria);
             return Ok("Cadastro com Sucesso");
         }
-
-        //[HttpDelete("/removercategoria")]
-        //public IActionResult removerCategorias(CategoriaDTO categoria)
-        //{
-        //    var itemPesquisado = _categorias.FirstOrDefault(x => x.Codigo == categoria.Codigo);
-
-        //    if (itemPesquisado != null)
-        //    {
-        //        _categorias.Remove(itemPesquisado);
-        //        return Ok("Removido com sucesso");
-        //    }
-        //    else
-        //    {
-        //        return Ok("Produdo não localizado");
-        //    }
-
-            
-        //}
 
 
 

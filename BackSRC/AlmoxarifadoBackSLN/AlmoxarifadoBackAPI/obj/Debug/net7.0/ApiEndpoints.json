@@ -144,14 +144,21 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.EntradaController",
     "Method": "listaEntrada",
     "RelativePath": "Entrada",
+=======
+    "ContainingType": "AlmoxarifadoBackAPI.Controllers.ProdutoController",
+    "Method": "criarProduto",
+    "RelativePath": "criarproduto",
+>>>>>>> LayoutPadrão
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
+<<<<<<< HEAD
         "Name": "entrada",
         "Type": "AlmoxarifadoBackAPI.DTO.EntradaDTO",
         "IsRequired": true
@@ -202,6 +209,10 @@
       {
         "Name": "itenssaida",
         "Type": "AlmoxarifadoBackAPI.DTO.ItensSaidaDTO",
+=======
+        "Name": "produto",
+        "Type": "AlmoxarifadoBackAPI.DTO.ProdutoCadastroDTO",
+>>>>>>> LayoutPadrão
         "IsRequired": true
       }
     ],
@@ -218,6 +229,7 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.EntradaController",
     "Method": "listaEntrada",
     "RelativePath": "listaentrada",
@@ -259,6 +271,9 @@
   },
   {
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.ProdutosController",
+=======
+    "ContainingType": "AlmoxarifadoBackAPI.Controllers.ProdutoController",
+>>>>>>> LayoutPadrão
     "Method": "listaProdutos",
     "RelativePath": "listaprodutos",
     "HttpMethod": "GET",
@@ -268,6 +283,7 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.SaidaController",
     "Method": "listaSaida",
     "RelativePath": "listaSaida",
@@ -291,11 +307,17 @@
     "ContainingType": "AlmoxarifadoBackAPI.Controllers.ProdutosController",
     "Method": "listaProdutos",
     "RelativePath": "produtos",
+=======
+    "ContainingType": "AlmoxarifadoBackAPI.Controllers.ProdutoController",
+    "Method": "listaProdutos",
+    "RelativePath": "produto",
+>>>>>>> LayoutPadrão
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
+<<<<<<< HEAD
         "Name": "produtos",
         "Type": "AlmoxarifadoBackAPI.DTO.ProdutosDTO",
         "IsRequired": true
@@ -330,6 +352,10 @@
       {
         "Name": "secretaria",
         "Type": "AlmoxarifadoBackAPI.DTO.SecretariaDTO",
+=======
+        "Name": "categoria",
+        "Type": "AlmoxarifadoBackAPI.DTO.ProdutoDTO",
+>>>>>>> LayoutPadrão
         "IsRequired": true
       }
     ],

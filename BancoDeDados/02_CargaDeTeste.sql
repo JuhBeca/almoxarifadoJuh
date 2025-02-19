@@ -1,4 +1,4 @@
-use dbAlmoxarifado
+use dbAlmoxarifado1
 
 --Tabela Categoria
 --select * from categoria

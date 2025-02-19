@@ -12,6 +12,8 @@ namespace AlmoxarifadoBackAPI.Repositorio
         {
             modelBuilder.Entity<Categoria>().HasKey(c=>c.Codigo);
             modelBuilder.Entity<Categoria>().Property(c => c.Codigo).ValueGeneratedOnAdd();
+            modelBuilder.Entity<Produto>().HasKey(c => c.Codigo);
+            modelBuilder.Entity<Produto>().Property(c => c.Codigo).ValueGeneratedOnAdd();
 
             modelBuilder.Entity<Produtos>().HasKey(c => c.Id);
             modelBuilder.Entity<Produtos>().Property(c => c.Id).ValueGeneratedOnAdd();
@@ -37,6 +39,7 @@ namespace AlmoxarifadoBackAPI.Repositorio
 
 
         public DbSet<Categoria> Categoria { get; set; }
+<<<<<<< HEAD
         public DbSet<Produtos> Produtos { get; set; }
         public DbSet<Fornecedor> Fornecedor { get; set; }
         public DbSet<Secretaria> Secretaria { get; set; }
@@ -44,5 +47,9 @@ namespace AlmoxarifadoBackAPI.Repositorio
         public DbSet<Saida> Saida { get; set; }
         public DbSet<ItensEntrada> ItensEntrada { get; set; }
         public DbSet<ItensSaida> ItensSaida{ get; set; }
+=======
+        public DbSet<Produto> Produto { get; set; }
+        
+>>>>>>> LayoutPadrão
     }
 }

@@ -3643,11 +3643,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
       "projectName": "AlmoxarifadoBackAPI",
       "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
       "packagesPath": "C:\\Users\\tarde.cetafest\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+      "projectName": "AlmoxarifadoBackAPI",
+      "projectPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+      "packagesPath": "C:\\Users\\tarde.cetafest\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+>>>>>>> LayoutPadrão
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -2,6 +2,7 @@
 {
     public class Fornecedor
     {
+<<<<<<< HEAD
         public int IdForn { get; set; }
         public string NomeForn { get; set; }
         public string EndereçoForn { get; set; }
@@ -10,5 +11,14 @@
         public string EstadoSigla { get; set; }
         public string Telefone { get; set; }
         public string CNPJ { get; set; }
+=======
+        public int Codigo { get; set; }
+        public int nome { get; set; }
+
+        public int Telefone { get; set; }
+        public int Estado { get; set; }
+        public int Cidade { get; set; }
+        public int CNPJ { get; set; }
+>>>>>>> LayoutPadrão
     }
 }

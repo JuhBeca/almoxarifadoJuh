@@ -79,6 +79,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/listaentrada": {
       "get": {
         "tags": [
@@ -379,6 +380,12 @@
       "get": {
         "tags": [
           "Produtos"
+=======
+    "/listaprodutos": {
+      "get": {
+        "tags": [
+          "Produto"
+>>>>>>> LayoutPadrão
         ],
         "responses": {
           "200": {
@@ -387,26 +394,45 @@
         }
       }
     },
+<<<<<<< HEAD
     "/produtos": {
       "post": {
         "tags": [
           "Produtos"
+=======
+    "/produto": {
+      "post": {
+        "tags": [
+          "Produto"
+>>>>>>> LayoutPadrão
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProdutosDTO"
+=======
+                "$ref": "#/components/schemas/ProdutoDTO"
+>>>>>>> LayoutPadrão
               }
             },
             "text/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProdutosDTO"
+=======
+                "$ref": "#/components/schemas/ProdutoDTO"
+>>>>>>> LayoutPadrão
               }
             },
             "application/*+json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProdutosDTO"
+=======
+                "$ref": "#/components/schemas/ProdutoDTO"
+>>>>>>> LayoutPadrão
               }
             }
           }
@@ -418,25 +444,41 @@
         }
       }
     },
+<<<<<<< HEAD
     "/addprodutos": {
       "post": {
         "tags": [
           "Produtos"
+=======
+    "/criarproduto": {
+      "post": {
+        "tags": [
+          "Produto"
+>>>>>>> LayoutPadrão
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProdutosCadastroDTO"
+=======
+                "$ref": "#/components/schemas/ProdutoCadastroDTO"
+>>>>>>> LayoutPadrão
               }
             },
             "text/json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProdutosCadastroDTO"
+=======
+                "$ref": "#/components/schemas/ProdutoCadastroDTO"
+>>>>>>> LayoutPadrão
               }
             },
             "application/*+json": {
               "schema": {
+<<<<<<< HEAD
                 "$ref": "#/components/schemas/ProdutosCadastroDTO"
               }
             }
@@ -586,6 +628,9 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/SecretariaCadastroDTO"
+=======
+                "$ref": "#/components/schemas/ProdutoCadastroDTO"
+>>>>>>> LayoutPadrão
               }
             }
           }
@@ -659,6 +704,7 @@
         },
         "additionalProperties": false
       },
+<<<<<<< HEAD
       "EntradaCadastroDTO": {
         "type": "object",
         "properties": {
@@ -811,6 +857,16 @@
             "nullable": true
           },
           "unidMedida": {
+=======
+      "ProdutoCadastroDTO": {
+        "type": "object",
+        "properties": {
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "unidadeMedida": {
+>>>>>>> LayoutPadrão
             "type": "string",
             "nullable": true
           },
@@ -818,9 +874,25 @@
             "type": "number",
             "format": "float"
           },
+<<<<<<< HEAD
           "ePermamente": {
             "type": "boolean"
           },
+=======
+          "epermanente": {
+            "type": "boolean"
+          },
+          "codigoCategoria": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProdutoDTO": {
+        "type": "object",
+        "properties": {
+>>>>>>> LayoutPadrão
           "codigo": {
             "type": "integer",
             "format": "int32"
@@ -828,6 +900,7 @@
         },
         "additionalProperties": false
       },
+<<<<<<< HEAD
       "ProdutosDTO": {
         "type": "object",
         "properties": {
@@ -910,6 +983,8 @@
         },
         "additionalProperties": false
       },
+=======
+>>>>>>> LayoutPadrão
       "WeatherForecast": {
         "type": "object",
         "properties": {
