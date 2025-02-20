@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    
+    <link rel="stylesheet" href="~/css/Categoria.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AlmoxarifadoFront.styles.css" asp-append-version="true" />
+</head>
+
+
+<body>
+
+    <div id="containerCategoria " class="containerCategoria ">
+        <div class="container1Categoria ">
+            <div>
+                <button class="btnCategoria ">
+                    Novo
+                </button>
+            </div>
+        </div>
+        <div class="container2Categoria ">
+            <table class="TableContainerCategoria ">
+                <thead>
+                <th>
+                    Código
+                </th>
+                <th>
+                    Descrição
+                </th>
+                <th>
+                    Opções
+                </th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>01</td>
+                        <td>Descrição</td>
+                        <td>
+                            <div class="IconesContainerCategoria ">
+                                <div class="Icone1Categoria ">
+                                </div>
+                                <div class="Icone2Categoria ">
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="container3Categoria ">
+            <div>
+                <button class="btn BtnAzulColorCategoria ">
+                    Voltar
+                </button>
+            </div>
+        </div>
+    </div>
+    @RenderBody();
+</body>
+
+</html>
