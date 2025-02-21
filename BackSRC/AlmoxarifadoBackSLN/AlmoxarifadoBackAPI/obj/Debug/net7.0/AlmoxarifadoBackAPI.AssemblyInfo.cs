@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlmoxarifadoBackAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77428bd888219d01d5f2ae6c8aec5dda61c4400a")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c871e57f9105b1133c61e5f749f395df0a65bdf")]
->>>>>>> LayoutPadrão
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6301456c99ee66717e8c8be031422cfa6c6bd469")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlmoxarifadoBackAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlmoxarifadoBackAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
