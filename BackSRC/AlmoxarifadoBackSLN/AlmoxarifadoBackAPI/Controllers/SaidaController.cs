@@ -2,6 +2,8 @@
 using AlmoxarifadoBackAPI.Models;
 <<<<<<< HEAD
 using AlmoxarifadoBackAPI.Repositorio;
+using Microsoft.AspNetCore.Authorization;
+
 =======
 using AlmoxarifadoBackAPI.Repositorio_sai;
 >>>>>>> LayoutPadrão
@@ -16,6 +18,7 @@ namespace AlmoxarifadoBackAPI.Controllers
     [Route("[controller]")]
 >>>>>>> LayoutPadrão
     [ApiController]
+    [Authorize]
     public class SaidaController : ControllerBase
     {
         private readonly ISaidaRepositorio _db;

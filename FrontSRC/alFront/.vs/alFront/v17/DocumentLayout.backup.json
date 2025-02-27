@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\",
+  "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|c:\\users\\manha.cetafest\\documents\\github\\almoxarifadojuh\\frontsrc\\alfront\\alfront\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|solutionrelative:alfront\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Controllers\\CategoriaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:alFront\\Controllers\\CategoriaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|c:\\users\\manha.cetafest\\documents\\github\\almoxarifadojuh\\frontsrc\\alfront\\alfront\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|solutionrelative:alfront\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\Categoria.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:alFront\\wwwroot\\css\\Categoria.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|c:\\users\\manha.cetafest\\documents\\github\\almoxarifadojuh\\frontsrc\\alfront\\alfront\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|solutionrelative:alfront\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\categoria\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:alFront\\Views\\categoria\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|c:\\users\\manha.cetafest\\documents\\github\\almoxarifadojuh\\frontsrc\\alfront\\alfront\\wwwroot\\css\\categoria.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|solutionrelative:alfront\\wwwroot\\css\\categoria.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|c:\\users\\manha.cetafest\\documents\\github\\almoxarifadojuh\\frontsrc\\alfront\\alfront\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0EF3399-6987-43E5-8B75-0406B61BDF89}|alFront\\alFront.csproj|solutionrelative:alfront\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:alFront\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +30,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "alFront\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "alFront\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-20T13:31:32.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "alFront\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "alFront\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -60,24 +43,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\categoria\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\categoria\\Index.cshtml",
               "RelativeDocumentMoniker": "alFront\\Views\\categoria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Views\\categoria\\Index.cshtml",
               "RelativeToolTip": "alFront\\Views\\categoria\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-20T13:26:41.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Controllers\\CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "alFront\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "alFront\\Controllers\\CategoriaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Categoria.css",
-              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\Categoria.css",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\Categoria.css",
               "RelativeDocumentMoniker": "alFront\\wwwroot\\css\\Categoria.css",
-              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\Categoria.css",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\almoxarifadoJuh\\FrontSRC\\alFront\\alFront\\wwwroot\\css\\Categoria.css",
               "RelativeToolTip": "alFront\\wwwroot\\css\\Categoria.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

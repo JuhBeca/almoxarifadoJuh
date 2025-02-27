@@ -1,8 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\DTO"
   ],
   "SelectedNode": "\\DTO",
+=======
+    "\\Controllers",
+    "\\Models",
+    "\\wwwroot",
+    "\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Controllers\\CategoriaController.cs",
+>>>>>>> 44ff404646f6f2fa4af3e4dae77909eeb8961d21
   "PreviewInSolutionExplorer": false
 }

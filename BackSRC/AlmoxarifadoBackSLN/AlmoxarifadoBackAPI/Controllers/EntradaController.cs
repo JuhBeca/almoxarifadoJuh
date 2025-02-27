@@ -2,6 +2,8 @@
 using AlmoxarifadoBackAPI.Models;
 <<<<<<< HEAD
 using AlmoxarifadoBackAPI.Repositorio;
+using Microsoft.AspNetCore.Authorization;
+
 =======
 using AlmoxarifadoBackAPI.Repositorio_Ent;
 >>>>>>> LayoutPadrão
@@ -16,6 +18,7 @@ namespace AlmoxarifadoBackAPI.Controllers
     [Route("[controller]")]
 >>>>>>> LayoutPadrão
     [ApiController]
+    [Authorize]
     public class EntradaController : ControllerBase
     {
         private readonly IEntradaRepositorio _db;
